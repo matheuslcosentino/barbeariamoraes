@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "moraes", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "5530"], "port": 5530 }
+  ]
+}
